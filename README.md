@@ -1,6 +1,6 @@
 # Evaluare3-IA
 0. SIte-ul de retete culinare jamilacuisine.ro
-1.a.Oportunitatea: oferirea unor instructiuni pentru prepararea mancarurilor, complementand videoclipurile populare de pe youtube si facilitand urmarirea instructiuniilor in format scris. De asemenea, site-ul poate ajuta la search engine discoverability optimization pentru retetele video de pe youtube.
+1. a.Oportunitatea: oferirea unor instructiuni pentru prepararea mancarurilor, complementand videoclipurile populare de pe youtube si facilitand urmarirea instructiuniilor in format scris. De asemenea, site-ul poate ajuta la search engine discoverability optimization pentru retetele video de pe youtube.
 
     Problema adresata: problema lipsei instrumentelor interactive si personalizabile pentru descoperirea și planificarea rețetelor de care ar putea avea nevoie sau care ar starni interesul bucătariilor amatori care caută retete culinare adaptatabile, livrate intr-o intervata intuitiva si straight-forward, dar si simplificarea gătitului. Impactul acestei probleme constă în reducerea implicării utilizatorilor și imposibilitatea de a maximiza potențialul platformei ca resursă culinară principală.
 Potentiale solutii: gasirea facila de rețete bazate pe preferințe alimentare, bucătărie specifică sau nivel de dificultate, conceperea unor tool-uri interactive pentru planificarea meselor, functionalitati si optiuni diverse la un click distanta, precum optiunea de a alege din categorii clar definite, optiunea de a printa o reteta, de a accesa rapid videoclipul asociat retetei si o estimare a valoriilor nutritionale pentru produsul final.
@@ -52,7 +52,7 @@ Potentiale solutii: gasirea facila de rețete bazate pe preferințe alimentare, 
 
     Beneficiu utilizator: Utilizatorii pot gasi retete noi si pot interactiona cu creatorul retetelor (Jamila/echipa ei).
    Functionalitate de suport: Tot pe pagina principala, putin mai jos, exista categoria de retete populare, actualizata ocazional, ajutandu-i pe nehotarati sa gaseasca inspiratie. Tot in meniul principal, avem acces usor la retelele sociale ale Jamilei.
-
+   
 2.Prezentarea specificatiilor software:
 -din punct de vedere al performantei si scalabilitatii (functionalitatii):
   platforma trebuie să suporte un numar ridicat de utilizatori simultan (sa consideram spre exemplu peste 50.000) si trebuie sa aiba metode de interceptare a unui atac DDoS (cu ajutorul cloud hoster-ului); timpul de răspuns al paginii ar trebui să fie sub 2 secunde pentru o experiență optimă a utilizatorului; arhitectura backend-ului va utiliza cloud hosting pentru a permite scalarea resurselor în funcție de trafic.
